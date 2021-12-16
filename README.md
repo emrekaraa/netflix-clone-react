@@ -1,5 +1,5 @@
 # Netflix Clone React Demo Link
-Click To View: [https://netflix-clone-react-1e976.firebaseapp.com/](https://netflix-clone-react-1e976.firebaseapp.com/)
+- Click To View: [https://netflix-clone-react-1e976.firebaseapp.com/](https://netflix-clone-react-1e976.firebaseapp.com/)
 
 Api source link: [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
 
